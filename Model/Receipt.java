@@ -1,3 +1,4 @@
+package Model;
 public class Receipt {
     private int ID;
     private Cashier cashier;
